@@ -1,0 +1,31 @@
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.exe.config
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.exe
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.pdb
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\UnityTool.dll
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\UnityEngine.dll
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\bin\Debug\UnityTool.pdb
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Form1.resources
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.GameOver.resources
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Properties.Resources.resources
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.GraphicResources.resources
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Settings.resources
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csproj.GenerateResource.Cache
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.exe
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.pdb
+C:\Users\konrad\Documents\Visual Studio 2012\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csprojResolveAssemblyReference.cache
+D:\programowanie\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.exe.config
+D:\programowanie\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.exe
+D:\programowanie\Projects\4-in a row\4-in a row\bin\Debug\4-in a row.pdb
+D:\programowanie\Projects\4-in a row\4-in a row\bin\Debug\UnityEngine.dll
+D:\programowanie\Projects\4-in a row\4-in a row\bin\Debug\UnityTool.pdb
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csproj.AssemblyReference.cache
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Form1.resources
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.GameOver.resources
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Properties.Resources.resources
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.GraphicResources.resources
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\_4_in_a_row.Settings.resources
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csproj.GenerateResource.cache
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csproj.CoreCompileInputs.cache
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.csproj.CopyComplete
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.exe
+D:\programowanie\Projects\4-in a row\4-in a row\obj\Debug\4-in a row.pdb
